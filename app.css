@@ -1,0 +1,30 @@
+#add{
+    margin-top: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#add:hover{
+    color:orange;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid green;
+    float: left;
+}
+
+.deleteButton{
+    color:rgb(3, 139, 3);
+    cursor: pointer;
+}
+
+.editButton{
+    cursor: pointer;
+    
+}
+
+.saveB{
+    cursor: pointer;
+}
